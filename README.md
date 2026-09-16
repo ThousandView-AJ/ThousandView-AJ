@@ -1,22 +1,22 @@
 <table>
 <tr>
-<td width="400">
+<td width="350">
 
-![whoami](./assets/ascii-art(1).png)
+<img src="./assets/ascii-art(1).png" width="320" alt="whoami ascii art" />
 
 </td>
 <td valign="top">
 
-### > whoami
-# ARJUN GARG
+### `> whoami`
+# A R J U N &nbsp;&nbsp; G A R G
 
 _"This profile will grow as I learn."_
 
 ---
 
-🎓 &nbsp; BTech IT @ NSUT Delhi
-📍 &nbsp; Delhi, India
-🎯 &nbsp; Full-stack web dev & DSA
+- 🎓 &nbsp; BTech IT @ NSUT Delhi
+- 📍 &nbsp; Delhi, India
+- 🎯 &nbsp; Full-stack web dev & DSA
 
 </td>
 </tr>
@@ -39,13 +39,6 @@ _"This profile will grow as I learn."_
 ### // Currently
 - 💻 &nbsp; Building projects and participating in hackathons
 - 📖 &nbsp; Exploring backend, system design and real-world development
+- 🧠 &nbsp; Sharpening DSA fundamentals alongside coursework
 
 ---
-
-### // GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ThousandView-AJ&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f0f0dc&text_color=8c8264&icon_color=6e7a4f)
-
----
-
-_This profile will grow as I learn._
