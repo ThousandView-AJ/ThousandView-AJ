@@ -2,7 +2,7 @@
 <tr>
 <td width="400">
 
-![whoami](./assets/ascii-art.png)
+![whoami](./assets/ascii-art(1).png)
 
 </td>
 <td valign="top">
